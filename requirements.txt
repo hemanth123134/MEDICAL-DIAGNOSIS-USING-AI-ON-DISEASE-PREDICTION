@@ -1,0 +1,31 @@
+numpy==2.2.3
+pandas==2.2.3
+scikit_learn==1.6.1
+streamlit==1.42.1
+
+
+1. Software Requirements
+Operating System: Windows
+Programming Language: Python 3.8+
+Libraries & Frameworks:
+Data Processing: numpy, pandas
+Machine Learning: scikit-learn, tensorflow, torch
+Data Visualization: matplotlib, seaborn
+Deployment (Optional): streamlit
+IDE: Google Colab Notebook, VS Code
+Version Control: Git & GitHub
+2. Hardware Requirements
+Minimum Requirements:
+
+CPU: Intel i5 / AMD Ryzen 5
+RAM: 8GB
+Storage: 20GB free space
+GPU: Integrated graphics (for basic ML models)
+Recommended for Deep Learning Models:
+
+CPU: Intel i5
+RAM: 16GB+
+Storage: 50GB SSD
+3. Additional Resources
+Datasets:
+Public medical datasets (Kaggle, UCI, NIH)
